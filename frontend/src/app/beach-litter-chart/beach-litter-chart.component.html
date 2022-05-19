@@ -1,0 +1,12 @@
+<div class="d-flex flex-column" *ngFor="let chart of chartDataArray">
+  <div class="py-1">
+    <google-chart [title]="chart.title" [type]="chart.type" [data]="chart.data" [columns]="chart.columns"
+      [options]="chart.options">
+    </google-chart>
+  </div>
+  <div class="custom-ngx-slider mx-auto">
+    <ngx-slider [(value)]="sliderValue" [options]="sliderOptions"
+    (valueChange)="cambiaAnno({sliderValue})"></ngx-slider>
+  </div>
+  
+</div>

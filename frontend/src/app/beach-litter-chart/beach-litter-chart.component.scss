@@ -1,0 +1,19 @@
+::ng-deep {
+  .custom-ngx-slider {
+    width: 100%;
+    max-width: 300px;
+    position: relative;
+  }
+  .custom-ngx-slider .ngx-slider .ngx-slider-pointer {
+    outline-color: transparent;
+    color: white;
+  }
+  .custom-ngx-slider .ngx-slider .ngx-slider-pointer.ngx-slider-active:after {
+    background-color: white;
+  }
+  .custom-ngx-slider .ngx-slider .ngx-slider-bubble {
+    &.ngx-slider-limit {
+      font-size: 0;
+    }
+  }
+}

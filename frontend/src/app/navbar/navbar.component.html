@@ -1,0 +1,94 @@
+<div
+  class="d-inline-flex justify-content-center sticky-top"
+  style="width: 100%"
+>
+  <nav
+    ngClass="{{
+      theme
+    }} d-inline-flex navbar navbar-expand-lg shadow-sm px-lg-5 px-2 py-2"
+    style="width: 100%"
+  >
+    <div class="container-fluid px-4">
+      <div class="me-auto d-inline-flex w-100">
+        <a
+          class="navbar-brand brand d-inline-flex align-items-center"
+          routerLink="/"
+        >
+          <img class="img-fluid logo" />
+          <div
+            class="flex-child mx-12 bg-blue h-24 block-mxl"
+            style="width: 10px"
+          ></div>
+          <span class="d-none d-md-flex"
+            >Sustainable Development | Goal 14</span
+          >
+          <span class="d-md-none d-flex">SDG 14</span>
+        </a>
+        <button
+          class="navbar-toggler my-auto"
+          type="button"
+          (click)="basicNav.toggle()"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+          style="height: 40px; margin-left: auto"
+        >
+        </button>
+      </div>
+
+      <div
+        class="collapse navbar-collapse"
+        id="navbarNav"
+        mdbCollapse
+        #basicNav="mdbCollapse"
+      >
+        <ul class="navbar-nav ms-auto mr-auto mt-2 mt-lg-0">
+          <li class="nav-item active">
+            <a class="nav-link" routerLink="/" fragment="home-landing">Home</a>
+          </li>
+          <li class="nav-item">
+            <a
+              class="nav-link"
+              routerLink="/about"
+              fragment="about-landing"
+              style="width: 68px"
+              >About Us</a
+            >
+          </li>
+          <li class="nav-item dropdown">
+            <a
+              class="nav-link dropdown-toggle"
+              href="#"
+              id="navbarDropdown"
+              role="button"
+              data-bs-toggle="dropdown"
+              aria-haspopup="true"
+              aria-expanded="false"
+            >
+              SDG Indicators
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" routerLink="/sea-water-ph"
+                >Acidification</a
+              >
+              <a class="dropdown-item" routerLink="/eutrophication"
+                >Eutrophication</a
+              >
+              <a class="dropdown-item" routerLink="/fish-stocks"
+                >Fishery Collapse</a
+              >
+              <a class="dropdown-item" routerLink="/ocean-warming"
+                >Ocean Warming</a
+              >
+              <a class="dropdown-item" routerLink="/beach-litter"
+                >Plastic/Marine Pollution</a
+              >
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" routerLink="/resources">Resources</a>
+            </div>
+          </li>
+        </ul>
+        <ngbd-theme-switch style="icon"></ngbd-theme-switch>
+      </div>
+    </div>
+  </nav>
+</div>

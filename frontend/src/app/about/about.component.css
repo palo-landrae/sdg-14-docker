@@ -1,0 +1,12 @@
+.rounded-12 {
+  border-radius: 12px;
+}
+
+input,
+textarea,
+input:focus,
+textarea:focus {
+  color: inherit;
+  background-color: inherit;
+}
+

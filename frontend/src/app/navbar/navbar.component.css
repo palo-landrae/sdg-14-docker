@@ -1,0 +1,70 @@
+.border--gray-light {
+  border-color: #c6d2e1 !important;
+}
+
+.site-header {
+  width: 100%;
+}
+
+.wrapper {
+  width: 100%;
+}
+
+@media screen and (min-width: 1200px) {
+  .block-mxl {
+    display: block !important;
+  }
+}
+.brand {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 30px;
+}
+
+.brand:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.brand:active,
+.brand:link,
+.brand:visited {
+  color: inherit;
+}
+
+.logo {
+  width: 42px;
+  height: 42px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  background-image: url("..\..\assets\img\whale_icon_256x256.png");
+}
+
+a {
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;
+  font-weight: 800;
+  line-height: 18px;
+  color: inherit;
+}
+
+a:hover {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+a:active,
+a:visited,
+a:link {
+  color: inherit;
+}
+span {
+  font-size: 1.5rem;
+}
+
+button {
+  color: inherit;
+  border-color: inherit;
+}

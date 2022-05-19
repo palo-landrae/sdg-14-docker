@@ -1,0 +1,88 @@
+<div ngClass="{{ theme }}">
+  <section id="home-landing">
+    <div class="section">
+      <span>
+        <p class="monstserrat-12 text-white">LIFE BELOW WATER</p>
+        <p class="monstserrat-20 text-white">
+          The importance of oceans and seas
+        </p>
+      </span>
+      <div class="video-container">
+        <div class="color-overlay"></div>
+        <video preload="metadata" autoplay muted loop>
+          <source
+            src="../../assets/vid/Ocean Waves Background Video 4K.webm"
+            type="video/webm"
+          />
+          <source
+            src="../../assets/vid/Ocean Waves Background Video.mp4"
+            type="video/mp4"
+          />
+        </video>
+      </div>
+    </div>
+  </section>
+  <div class="container px-4 mt-4">
+    <div class="d-flex mx-auto px-3 row">
+      <h2>
+        Conserve and sustainably use the oceans, seas and marine resources for
+        sustainable development
+      </h2>
+      <p class="roboto-12 text-justify">
+        The sustainability of our oceans is under severe threat. More than 3
+        billion people rely on the ocean for their livelihoods, and over 80 per
+        cent of world merchandise trade is carried out by sea. Oceans contribute
+        to poverty eradication, sustained economic growth and food security.
+      </p>
+      <p class="roboto-12 text-justify">
+        Oceans face the threats of marine and nutrient pollution, resource
+        depletion and climate change, all of which are caused primarily by human
+        actions. These threats place further pressure on environmental systems,
+        like biodiversity and natural infrastructure, while creating global
+        socio-economic problems, including health, safety and financial risks.
+        In order to combat these issues and promote ocean sustainability,
+        innovative solutions that prevent and mitigate detrimental impacts to
+        marine environments are essential. World leaders must also work to
+        protect marine species and support the people who depend on oceans,
+        whether it be for employment, resources, or leisure.
+      </p>
+      <p class="roboto-12 text-justify">
+        While efforts to reduce nutrient inputs into coastal zones are showing
+        success in some regions, algal blooms indicate that coastal
+        eutrophication continues to be a challenge. Globally, anomalies of
+        chlorophyll-a (the pigment responsible for photosynthesis in all plants
+        and algae) in national exclusive economic zones decreased by 20 per cent
+        from 2018 to 2020.
+      </p>
+    </div>
+
+    <div
+      class="row d-flex justify-content-center mx-auto px-2"
+      style="width: 100%"
+    >
+      <div
+        class="col-xs-12 col-sm-6 col-md-4 mx-auto"
+        *ngFor="let card of cardArray"
+      >
+        <div class="card mx-auto my-3">
+          <a class="img-card">
+            <img src="{{ card.img }}" />
+          </a>
+          <div class="card-content d-flex flex-column">
+            <h4 class="card-title">{{ card.title }}</h4>
+            <p class="card-text text-truncate">
+              Some quick example text to build on the card title and make up the
+              bulk of the card's content.
+            </p>
+            <a
+              href="{{ card.link }}"
+              class="btn btn-primary align-self-center px-4"
+              >Read More</a
+            >
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
