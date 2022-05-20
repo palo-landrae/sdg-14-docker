@@ -43,6 +43,7 @@ import { ReactiveFormsModule } from '@angular/forms';
 import { ContactService } from './contact.service';
 import { NgHcaptchaModule } from 'ng-hcaptcha';
 import { NgBootstrapDarkmodeModule } from 'ng-bootstrap-darkmode';
+import { ThemeButtonComponent } from './theme-button/theme-button.component';
 
 @NgModule({
   declarations: [
@@ -63,6 +64,7 @@ import { NgBootstrapDarkmodeModule } from 'ng-bootstrap-darkmode';
     TeamComponent,
     OceanWarmingComponent,
     OceanWarmingChartComponent,
+    ThemeButtonComponent,
   ],
   imports: [
     BrowserModule,
