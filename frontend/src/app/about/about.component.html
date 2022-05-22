@@ -152,15 +152,6 @@
               ></textarea>
             </div>
           </div>
-          <ngb-alert
-            #selfClosingAlert
-            *ngIf="successMessage"
-            [dismissible]="false"
-            type="success"
-            (closed)="successMessage = ''"
-            class="mt-3 mx-1"
-            >{{ successMessage }}</ngb-alert
-          >
         </div>
       </form>
     </div>
