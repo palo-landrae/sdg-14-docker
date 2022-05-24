@@ -5,12 +5,18 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { ThemeButtonComponent } from './theme-button/theme-button.component';
+import { BeachLitterComponent } from './beach-litter/beach-litter.component';
+import { BeachLitterChartComponent } from './beach-litter/beach-litter-chart/beach-litter-chart.component';
+import { IndicatorsDropdownComponent } from './indicators-dropdown/indicators-dropdown.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
-    ThemeButtonComponent
+    ThemeButtonComponent,
+    BeachLitterComponent,
+    BeachLitterChartComponent,
+    IndicatorsDropdownComponent
   ],
   imports: [
     BrowserModule,

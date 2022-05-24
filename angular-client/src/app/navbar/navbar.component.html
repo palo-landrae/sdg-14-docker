@@ -1,26 +1,22 @@
-<nav class="inline-flex justify-center sticky top-0 w-full z-50 bg-blue-200 dark:bg-gray-900 inline-flex w-full px-2">
+<nav class="inline-flex justify-center sticky top-0 w-full mx-auto z-50 bg-blue-200 dark:bg-gray-900 px-4">
     <div class="me-auto inline-flex w-full px-4">
         <a class="navbar-brand brand inline-flex items-center" routerLink="/">
             <img class="logo" />
             <div class="mx-2 h-24 w-4"></div>
-            <span class="hidden md:flex">Sustainable Development | Goal 14</span>
+            <h2 class="hidden md:flex">Sustainable Development | Goal 14</h2>
             <span class="md:hidden flex">SDG 14</span>
         </a>
         <div class="flex flex-1"></div>
         <a class="inline-flex items-center mx-2" routerLink="/" fragment="home-landing">Home</a>
         <a class="inline-flex items-center mx-2" routerLink="/about" fragment="about-landing" style="width: 68px">About
             Us</a>
-        <app-theme-button class="inline-flex items-center"></app-theme-button>
+        <app-indicators-dropdown class="inline-flex items-center mx-2"></app-indicators-dropdown>
+        <app-theme-button class="inline-flex items-center mx-2"></app-theme-button>
     </div>
+
     <!--
         <div class="dropdown-menu">
-          <a class="dropdown-item" routerLink="/sea-water-ph">Acidification</a>
-          <a class="dropdown-item" routerLink="/eutrophication">Eutrophication</a>
-          <a class="dropdown-item" routerLink="/fish-stocks">Fishery Collapse</a>
-          <a class="dropdown-item" routerLink="/ocean-warming">Ocean Warming</a>
-          <a class="dropdown-item" routerLink="/beach-litter">Plastic/Marine Pollution</a>
-          <div class="dropdown-divider"></div>
-          <a class="dropdown-item" routerLink="/resources">Resources</a>
+          
         </div>
   -->
 </nav>

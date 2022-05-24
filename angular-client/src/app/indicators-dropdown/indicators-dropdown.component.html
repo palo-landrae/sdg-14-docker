@@ -1,0 +1,33 @@
+<p class="cursor-pointer" (click)="toggleDropdown($event)" #btnDropdownRef>
+    SDG Indicators
+</p>
+<div class="z-50" style="min-width: 12rem" #popoverDropdownRef>
+    <div class="bg-white dark:bg-gray-700 text-base z-50 float-left py-2 list-none text-left rounded shadow-lg mt-1"
+        style="min-width: 12rem" [ngClass]="dropdownPopoverShow ? 'block' : 'hidden'">
+        <a routerLink="/sea-water-ph"
+            class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap">
+            Acidification
+        </a>
+        <a routerLink="/eutrophication"
+            class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap">
+            Eutrophication
+        </a>
+        <a routerLink="/fish-stocks"
+            class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap">
+            Fishery Collapse
+        </a>
+        <a routerLink="/ocean-warming"
+            class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap">
+            Ocean Warming
+        </a>
+        <a routerLink="/beach-litter"
+            class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap">
+            Plastic/Marine Pollution
+        </a>
+        <div class="h-0 my-2 border border-solid border-t-0 border-slate-800 opacity-25"></div>
+        <a routerLink="/resources"
+            class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap">
+            Resources
+        </a>
+    </div>
+</div>
