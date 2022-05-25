@@ -13,3 +13,20 @@ services:
         - ./angular-client:/app
       ports:
         - 4200:4200
+      networks:
+      - shared-network
+  server:
+      build:
+        dockerfile: Dockerfile.dev
+        context: ./express-server
+        args:
+          - NODE_ENV=development
+      volumes:
+        - ./express-server:/app
+      ports:
+        - 3000:3000
+      networks:
+      - shared-network
+
+networks:
+  shared-network:

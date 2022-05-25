@@ -38,7 +38,7 @@ export class BeachLitterChartComponent implements OnInit {
         {                   // options
           width: 720,
           height: 480,
-          backgroundColor: '#E4E4E4',
+          backgroundColor: 'transparent',
           chartArea: { left: 10, top: 10, bottom: 0, height: '100%' },
           displayMode: 'regions',
           colorAxis: {
