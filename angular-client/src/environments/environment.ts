@@ -3,9 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
-};
-
+  production: false,
+  server_url: `${process.env.NG_APP_GITPOD_WORKSPACE_URL.substring(0,8)}${process.env.NG_APP_SERVER_PORT}-${process.env.NG_APP_GITPOD_WORKSPACE_URL.substring(8)}`
+}
 /*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
