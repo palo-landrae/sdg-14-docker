@@ -7,9 +7,11 @@ FROM node:16-alpine as builder
 WORKDIR '/app' 
 
 # Install all the dependencies 
-COPY ./package.json ./   
+COPY ./package.json ./
 RUN npm install
-RUN npm i -g @angular/cli@12
+
+# Install Angular CLI 12
+RUN npm install --global @angular/cli@12
 
 # Add the source code to app
 COPY . .
