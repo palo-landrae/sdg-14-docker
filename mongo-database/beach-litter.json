@@ -1,0 +1,3088 @@
+[
+  {
+    "Entity": "Albania",
+    "Code": "ALB",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1284797
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 34285714
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 39450549
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 2485
+  },
+  {
+    "Entity": "Americas",
+    "Code": "",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 8264
+  },
+  {
+    "Entity": "Americas",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 362231
+  },
+  {
+    "Entity": "Americas",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 324916
+  },
+  {
+    "Entity": "Americas",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 197370
+  },
+  {
+    "Entity": "Americas",
+    "Code": "",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 1236
+  },
+  {
+    "Entity": "Americas",
+    "Code": "",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 1653
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 5832512
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 490427
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 3788199
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 6801203
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 619343
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 402912
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1470047
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 873113
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 1119
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 364
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 1514
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 7202
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 210440
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 140982
+  },
+  {
+    "Entity": "Australia and New Zealand",
+    "Code": "",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 1514
+  },
+  {
+    "Entity": "Australia and New Zealand",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 7798
+  },
+  {
+    "Entity": "Australia and New Zealand",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 208543
+  },
+  {
+    "Entity": "Australia and New Zealand",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 152920
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 148483
+  },
+  {
+    "Entity": "Azerbaijan",
+    "Code": "AZE",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 59891
+  },
+  {
+    "Entity": "Azerbaijan",
+    "Code": "AZE",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 249169
+  },
+  {
+    "Entity": "Bahamas",
+    "Code": "BHS",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 101987
+  },
+  {
+    "Entity": "Bahamas",
+    "Code": "BHS",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 418691
+  },
+  {
+    "Entity": "Bahamas",
+    "Code": "BHS",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 498357
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 146784466
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 5784746
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 4008336
+  },
+  {
+    "Entity": "Barbados",
+    "Code": "BRB",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1150075
+  },
+  {
+    "Entity": "Barbados",
+    "Code": "BRB",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 2376585
+  },
+  {
+    "Entity": "Barbados",
+    "Code": "BRB",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 2485
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 15202899
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 270451
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 227316
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 19152
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 664536
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1602169
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 988723
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1180478
+  },
+  {
+    "Entity": "Bermuda",
+    "Code": "BMU",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 484916
+  },
+  {
+    "Entity": "Bermuda",
+    "Code": "BMU",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1806490
+  },
+  {
+    "Entity": "Bermuda",
+    "Code": "BMU",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 897788
+  },
+  {
+    "Entity": "Bonaire Sint Eustatius and Saba",
+    "Code": "BES",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 152058
+  },
+  {
+    "Entity": "Bonaire Sint Eustatius and Saba",
+    "Code": "BES",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 2743364
+  },
+  {
+    "Entity": "Bosnia and Herzegovina",
+    "Code": "BIH",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1428111
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 5410680
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1563746
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1792397
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 507292
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 4741
+  },
+  {
+    "Entity": "British Virgin Islands",
+    "Code": "VGB",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 2476880
+  },
+  {
+    "Entity": "British Virgin Islands",
+    "Code": "VGB",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 2499565
+  },
+  {
+    "Entity": "Brunei",
+    "Code": "BRN",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 796452
+  },
+  {
+    "Entity": "Brunei",
+    "Code": "BRN",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 204454
+  },
+  {
+    "Entity": "Brunei",
+    "Code": "BRN",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 88928
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 231936
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 192462
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 2292929
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 2618936
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 2589610
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 2159091
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 2909923
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 6435405
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 5243328
+  },
+  {
+    "Entity": "Cameroon",
+    "Code": "CMR",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 84679624
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 1525
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 194241
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 333327
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 328376
+  },
+  {
+    "Entity": "Cape Verde",
+    "Code": "CPV",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 164926
+  },
+  {
+    "Entity": "Caribbean",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1996358
+  },
+  {
+    "Entity": "Caribbean",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 2190121
+  },
+  {
+    "Entity": "Caribbean",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1582629
+  },
+  {
+    "Entity": "Cayman Islands",
+    "Code": "CYM",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 3348055
+  },
+  {
+    "Entity": "Cayman Islands",
+    "Code": "CYM",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1209102
+  },
+  {
+    "Entity": "Cayman Islands",
+    "Code": "CYM",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 231898
+  },
+  {
+    "Entity": "Central America",
+    "Code": "",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 8419429
+  },
+  {
+    "Entity": "Central America",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 3509068
+  },
+  {
+    "Entity": "Central America",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 885788
+  },
+  {
+    "Entity": "Central America",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1479842
+  },
+  {
+    "Entity": "Central Asia",
+    "Code": "",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 11449
+  },
+  {
+    "Entity": "Central and Southern Asia",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1271339
+  },
+  {
+    "Entity": "Central and Southern Asia",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1340241
+  },
+  {
+    "Entity": "Central and Southern Asia",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 521671
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 791304
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 703401
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1295306
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 3741895
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 14219138
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 114916
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 278760
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 134588
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 46909860
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 4037824
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 426619
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 13522727
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 2798832
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 2260980
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1672656
+  },
+  {
+    "Entity": "Cote d'Ivoire",
+    "Code": "CIV",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 10022
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 45382353
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 429252
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 55350
+  },
+  {
+    "Entity": "Cuba",
+    "Code": "CUB",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 631356
+  },
+  {
+    "Entity": "Cuba",
+    "Code": "CUB",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 6047124
+  },
+  {
+    "Entity": "Curacao",
+    "Code": "CUW",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1930486
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 380500
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1230420
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 4879745
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 4901154
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 18794702
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 137315
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 10974
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 128986
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 196139
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 63905
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 208071
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 249039
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 197792
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 92395
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 3779883
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 5244173
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 4872620
+  },
+  {
+    "Entity": "Eastern Africa",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 3383139
+  },
+  {
+    "Entity": "Eastern Africa",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 2334515
+  },
+  {
+    "Entity": "Eastern Africa",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 289854
+  },
+  {
+    "Entity": "Eastern Asia",
+    "Code": "",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 6610703
+  },
+  {
+    "Entity": "Eastern Asia",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 165807
+  },
+  {
+    "Entity": "Eastern Asia",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 342850
+  },
+  {
+    "Entity": "Eastern Asia",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 189980
+  },
+  {
+    "Entity": "Eastern Europe",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 855105
+  },
+  {
+    "Entity": "Eastern Europe",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 17044
+  },
+  {
+    "Entity": "Eastern Europe",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 742410
+  },
+  {
+    "Entity": "Eastern Europe",
+    "Code": "",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 62306
+  },
+  {
+    "Entity": "Eastern Europe",
+    "Code": "",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 209169
+  },
+  {
+    "Entity": "Eastern and South-Eastern Asia",
+    "Code": "",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 6610703
+  },
+  {
+    "Entity": "Eastern and South-Eastern Asia",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 261073
+  },
+  {
+    "Entity": "Eastern and South-Eastern Asia",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1395043
+  },
+  {
+    "Entity": "Eastern and South-Eastern Asia",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 892341
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 891574
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 904248
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 740644
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 99219
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 2485
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 13670
+  },
+  {
+    "Entity": "Estonia",
+    "Code": "EST",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1058452
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 2485
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 857093
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 108985
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 336883
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 273498
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 624
+  },
+  {
+    "Entity": "Europe and Northern America",
+    "Code": "",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 18270
+  },
+  {
+    "Entity": "Europe and Northern America",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 219426
+  },
+  {
+    "Entity": "Europe and Northern America",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 207365
+  },
+  {
+    "Entity": "Europe and Northern America",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 141590
+  },
+  {
+    "Entity": "Europe and Northern America",
+    "Code": "",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 14069
+  },
+  {
+    "Entity": "Europe and Northern America",
+    "Code": "",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 1873
+  },
+  {
+    "Entity": "Fiji",
+    "Code": "FJI",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 134314
+  },
+  {
+    "Entity": "Fiji",
+    "Code": "FJI",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 815795
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 21726
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 165213
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 6693829
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 4550833
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 190684
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1066566
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 1329666
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 604617
+  },
+  {
+    "Entity": "French Polynesia",
+    "Code": "PYF",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 1117647
+  },
+  {
+    "Entity": "Georgia",
+    "Code": "GEO",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 986890
+  },
+  {
+    "Entity": "Georgia",
+    "Code": "GEO",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 10828452
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 101061
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 2106574
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 43348
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 386139
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 16956
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 33246161
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 56508806
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": {
+      "$numberLong": "2260658838"
+    }
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 2866051
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1806335
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1039325
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1432935
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 15158
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 72014
+  },
+  {
+    "Entity": "Grenada",
+    "Code": "GRD",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 400159
+  },
+  {
+    "Entity": "Grenada",
+    "Code": "GRD",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 592911
+  },
+  {
+    "Entity": "Grenada",
+    "Code": "GRD",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 3625093
+  },
+  {
+    "Entity": "Guam",
+    "Code": "GUM",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 295858
+  },
+  {
+    "Entity": "Guam",
+    "Code": "GUM",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1880771
+  },
+  {
+    "Entity": "Guam",
+    "Code": "GUM",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1297635
+  },
+  {
+    "Entity": "Guam",
+    "Code": "GUM",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 72532
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 4017753
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 10803670
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 250689
+  },
+  {
+    "Entity": "Guernsey",
+    "Code": "GGY",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 539843
+  },
+  {
+    "Entity": "Guernsey",
+    "Code": "GGY",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 2382398
+  },
+  {
+    "Entity": "Guernsey",
+    "Code": "GGY",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 2032941
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 2985316
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1557775
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 4524475
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 475911
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 883222
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 916969
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 172809
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 2090664
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1539911
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 508551
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 16667
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 123359
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 293877
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 23512
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 440
+  },
+  {
+    "Entity": "Isle of Man",
+    "Code": "IMN",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 6200249
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 221205
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 4473264
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 9195292
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 7008116
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 2331030
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 697753
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 211601
+  },
+  {
+    "Entity": "Jamaica",
+    "Code": "JAM",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 4508765
+  },
+  {
+    "Entity": "Jamaica",
+    "Code": "JAM",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 4294002
+  },
+  {
+    "Entity": "Jamaica",
+    "Code": "JAM",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 2404118
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 619750
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1959469
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1781297
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 468998
+  },
+  {
+    "Entity": "Jersey",
+    "Code": "JEY",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 140588
+  },
+  {
+    "Entity": "Kazakhstan",
+    "Code": "KAZ",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 11449
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 3204445
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 2048480
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 171116
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 35808
+  },
+  {
+    "Entity": "Kiribati",
+    "Code": "KIR",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 2485
+  },
+  {
+    "Entity": "Kuwait",
+    "Code": "KWT",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1002
+  },
+  {
+    "Entity": "Kuwait",
+    "Code": "KWT",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 27233
+  },
+  {
+    "Entity": "Kuwait",
+    "Code": "KWT",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 44437
+  },
+  {
+    "Entity": "Latin America and the Caribbean",
+    "Code": "",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 311140
+  },
+  {
+    "Entity": "Latin America and the Caribbean",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1953360
+  },
+  {
+    "Entity": "Latin America and the Caribbean",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1374410
+  },
+  {
+    "Entity": "Latin America and the Caribbean",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1262079
+  },
+  {
+    "Entity": "Latin America and the Caribbean",
+    "Code": "",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 187
+  },
+  {
+    "Entity": "Lebanon",
+    "Code": "LBN",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 2374286
+  },
+  {
+    "Entity": "Luxembourg",
+    "Code": "LUX",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 476000
+  },
+  {
+    "Entity": "Madagascar",
+    "Code": "MDG",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 5741935
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 334
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 31323913
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 23313061
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 488504
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 475828
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 285621
+  },
+  {
+    "Entity": "Maldives",
+    "Code": "MDV",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 3270
+  },
+  {
+    "Entity": "Maldives",
+    "Code": "MDV",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 735635
+  },
+  {
+    "Entity": "Maldives",
+    "Code": "MDV",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1263127
+  },
+  {
+    "Entity": "Malta",
+    "Code": "MLT",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 1205128
+  },
+  {
+    "Entity": "Malta",
+    "Code": "MLT",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 5261
+  },
+  {
+    "Entity": "Marshall Islands",
+    "Code": "MHL",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 13321307
+  },
+  {
+    "Entity": "Marshall Islands",
+    "Code": "MHL",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1396071
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 1696629
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1476694
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 2440870
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1337026
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 195336
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 4007696
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 783885
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1057973
+  },
+  {
+    "Entity": "Micronesia (country)",
+    "Code": "FSM",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 89756
+  },
+  {
+    "Entity": "Micronesia (country)",
+    "Code": "FSM",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 752117
+  },
+  {
+    "Entity": "Micronesia (country)",
+    "Code": "FSM",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 847000
+  },
+  {
+    "Entity": "Micronesia (country)",
+    "Code": "FSM",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 162398
+  },
+  {
+    "Entity": "Montenegro",
+    "Code": "MNE",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 1314961
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 13884817
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 603883
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 58923
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 724928
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 600490
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 2018795
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 637234
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 611045
+  },
+  {
+    "Entity": "Myanmar",
+    "Code": "MMR",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 638003
+  },
+  {
+    "Entity": "Namibia",
+    "Code": "NAM",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 186411
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 3870849
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 45603
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 52217
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 103847
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 7550
+  },
+  {
+    "Entity": "New Caledonia",
+    "Code": "NCL",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 2433702
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 281449
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 24073
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 281211
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 3262958
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1896642
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 621668
+  },
+  {
+    "Entity": "Nigeria",
+    "Code": "NGA",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1981343
+  },
+  {
+    "Entity": "Nigeria",
+    "Code": "NGA",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 8166746
+  },
+  {
+    "Entity": "Northern Africa and Western Asia",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1409846
+  },
+  {
+    "Entity": "Northern Africa and Western Asia",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 669269
+  },
+  {
+    "Entity": "Northern Africa and Western Asia",
+    "Code": "",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 72449
+  },
+  {
+    "Entity": "Northern Africa and Western Asia",
+    "Code": "",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 139985
+  },
+  {
+    "Entity": "Northern America",
+    "Code": "",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 7707
+  },
+  {
+    "Entity": "Northern America",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 203368
+  },
+  {
+    "Entity": "Northern America",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 222444
+  },
+  {
+    "Entity": "Northern America",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 135227
+  },
+  {
+    "Entity": "Northern America",
+    "Code": "",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 1340
+  },
+  {
+    "Entity": "Northern America",
+    "Code": "",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 2076
+  },
+  {
+    "Entity": "Northern Europe",
+    "Code": "",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 155329
+  },
+  {
+    "Entity": "Northern Europe",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 911061
+  },
+  {
+    "Entity": "Northern Europe",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 383594
+  },
+  {
+    "Entity": "Northern Europe",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 230476
+  },
+  {
+    "Entity": "Northern Europe",
+    "Code": "",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 13194
+  },
+  {
+    "Entity": "Northern Europe",
+    "Code": "",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 1797
+  },
+  {
+    "Entity": "Northern Mariana Islands",
+    "Code": "MNP",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 87697
+  },
+  {
+    "Entity": "Northern Mariana Islands",
+    "Code": "MNP",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 234068
+  },
+  {
+    "Entity": "Northern Mariana Islands",
+    "Code": "MNP",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 161545
+  },
+  {
+    "Entity": "Northern Mariana Islands",
+    "Code": "MNP",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 174240
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 325770
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 277099
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 284725
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 94811
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 313733
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 111527
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 352339
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 184919
+  },
+  {
+    "Entity": "Oman",
+    "Code": "OMN",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 2457134
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 5538922
+  },
+  {
+    "Entity": "Palau",
+    "Code": "PLW",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 428991
+  },
+  {
+    "Entity": "Palau",
+    "Code": "PLW",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 509132
+  },
+  {
+    "Entity": "Panama",
+    "Code": "PAN",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1446132
+  },
+  {
+    "Entity": "Panama",
+    "Code": "PAN",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 636943
+  },
+  {
+    "Entity": "Panama",
+    "Code": "PAN",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 5295090
+  },
+  {
+    "Entity": "Paraguay",
+    "Code": "PRY",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1062838
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 4051824
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 15390297
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 4107201
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1023702
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 3174985
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 4227161
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 850500
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 207789
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 732812
+  },
+  {
+    "Entity": "Polynesia",
+    "Code": "OWID_PYA",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 1117647
+  },
+  {
+    "Entity": "Polynesia",
+    "Code": "OWID_PYA",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 2089778
+  },
+  {
+    "Entity": "Polynesia",
+    "Code": "OWID_PYA",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 2434888
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 3096130
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1237300
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 257362
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1537330
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 160506
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 10294
+  },
+  {
+    "Entity": "Puerto Rico",
+    "Code": "PRI",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1129753
+  },
+  {
+    "Entity": "Puerto Rico",
+    "Code": "PRI",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 965147
+  },
+  {
+    "Entity": "Puerto Rico",
+    "Code": "PRI",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 684838
+  },
+  {
+    "Entity": "Qatar",
+    "Code": "QAT",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 623371
+  },
+  {
+    "Entity": "Qatar",
+    "Code": "QAT",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 766972
+  },
+  {
+    "Entity": "Qatar",
+    "Code": "QAT",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 464191
+  },
+  {
+    "Entity": "Reunion",
+    "Code": "REU",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 2083333
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 146057
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 2776233
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 13410072
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 719425
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 555747
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 2801281
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 374226
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 42530
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 681338
+  },
+  {
+    "Entity": "Saint Barthlemy",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 805408
+  },
+  {
+    "Entity": "Saint Helena",
+    "Code": "SHN",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 8249464
+  },
+  {
+    "Entity": "Saint Kitts and Nevis",
+    "Code": "KNA",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 991240
+  },
+  {
+    "Entity": "Saint Kitts and Nevis",
+    "Code": "KNA",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 601484
+  },
+  {
+    "Entity": "Saint Kitts and Nevis",
+    "Code": "KNA",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1538667
+  },
+  {
+    "Entity": "Saint Lucia",
+    "Code": "LCA",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1163493
+  },
+  {
+    "Entity": "Saint Lucia",
+    "Code": "LCA",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1982561
+  },
+  {
+    "Entity": "Saint Martin (French part)",
+    "Code": "MAF",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 916833
+  },
+  {
+    "Entity": "Saint Vincent and the Grenadines",
+    "Code": "VCT",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1498550
+  },
+  {
+    "Entity": "Saint Vincent and the Grenadines",
+    "Code": "VCT",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 130706
+  },
+  {
+    "Entity": "Saint Vincent and the Grenadines",
+    "Code": "VCT",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 4061116
+  },
+  {
+    "Entity": "Samoa",
+    "Code": "WSM",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 2089778
+  },
+  {
+    "Entity": "Samoa",
+    "Code": "WSM",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 2434888
+  },
+  {
+    "Entity": "Sao Tome and Principe",
+    "Code": "STP",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 53107
+  },
+  {
+    "Entity": "Senegal",
+    "Code": "SEN",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 100
+  },
+  {
+    "Entity": "Senegal",
+    "Code": "SEN",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 230851
+  },
+  {
+    "Entity": "Serbia",
+    "Code": "SRB",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 13151163
+  },
+  {
+    "Entity": "Seychelles",
+    "Code": "SYC",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 86703383
+  },
+  {
+    "Entity": "Seychelles",
+    "Code": "SYC",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 35040
+  },
+  {
+    "Entity": "Sierra Leone",
+    "Code": "SLE",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 621
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 7581521
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 3229485
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 5545935
+  },
+  {
+    "Entity": "Sint Maarten (Dutch part)",
+    "Code": "SXM",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 544323
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1833146
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1491842
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 3883
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 1059365
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 644019
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 243076
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 595450
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 304
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 4842535
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1428214
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1366327
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1012389
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 315
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1651100
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 958235
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 720163
+  },
+  {
+    "Entity": "South-eastern Asia",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1541996
+  },
+  {
+    "Entity": "South-eastern Asia",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 2547487
+  },
+  {
+    "Entity": "South-eastern Asia",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1138343
+  },
+  {
+    "Entity": "Southern Africa",
+    "Code": "",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 1059365
+  },
+  {
+    "Entity": "Southern Africa",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 635732
+  },
+  {
+    "Entity": "Southern Africa",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 243076
+  },
+  {
+    "Entity": "Southern Africa",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 595450
+  },
+  {
+    "Entity": "Southern Africa",
+    "Code": "",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 304
+  },
+  {
+    "Entity": "Southern Asia",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1271339
+  },
+  {
+    "Entity": "Southern Asia",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1340241
+  },
+  {
+    "Entity": "Southern Asia",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 521671
+  },
+  {
+    "Entity": "Southern Europe",
+    "Code": "",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 2973494
+  },
+  {
+    "Entity": "Southern Europe",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 3317796
+  },
+  {
+    "Entity": "Southern Europe",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 971549
+  },
+  {
+    "Entity": "Southern Europe",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1330661
+  },
+  {
+    "Entity": "Southern Europe",
+    "Code": "",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 268166
+  },
+  {
+    "Entity": "Southern Europe",
+    "Code": "",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 9295
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 1531321
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 4088206
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 2193543
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1436452
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 1257716
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 246332
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 3303722
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 3502184
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1673198
+  },
+  {
+    "Entity": "Suriname",
+    "Code": "SUR",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 580801
+  },
+  {
+    "Entity": "Suriname",
+    "Code": "SUR",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 659674
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 7624
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 22391
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 17226
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 6489
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 5934498
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 1317600
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 123206
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 41173753
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 14546454
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 88635
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 447946
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 519666
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 804727
+  },
+  {
+    "Entity": "Timor",
+    "Code": "TLS",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 172592
+  },
+  {
+    "Entity": "Tonga",
+    "Code": "TON",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 630051
+  },
+  {
+    "Entity": "Trinidad and Tobago",
+    "Code": "TTO",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1517814
+  },
+  {
+    "Entity": "Trinidad and Tobago",
+    "Code": "TTO",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 2355550
+  },
+  {
+    "Entity": "Trinidad and Tobago",
+    "Code": "TTO",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 3285571
+  },
+  {
+    "Entity": "Tunisia",
+    "Code": "TUN",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 1040778
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 2511675
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 5753343
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 451999
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 183296
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 12194
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 11372
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1229709
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 1421200
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1807540
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 9460278
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 716678
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 954398
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1180157
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 505209
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1151873
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 26712
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 7717
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 203851
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 214112
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 119956
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 1510
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 2114
+  },
+  {
+    "Entity": "United States Virgin Islands",
+    "Code": "VIR",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 48352
+  },
+  {
+    "Entity": "United States Virgin Islands",
+    "Code": "VIR",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1042555
+  },
+  {
+    "Entity": "United States Virgin Islands",
+    "Code": "VIR",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 864228
+  },
+  {
+    "Entity": "United States Virgin Islands",
+    "Code": "VIR",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 453534
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 560363
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 483382
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 244069
+  },
+  {
+    "Entity": "Vanuatu",
+    "Code": "VUT",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 535071
+  },
+  {
+    "Entity": "Vanuatu",
+    "Code": "VUT",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 684594
+  },
+  {
+    "Entity": "Vanuatu",
+    "Code": "VUT",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 696651
+  },
+  {
+    "Entity": "Venezuela",
+    "Code": "VEN",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 1614656
+  },
+  {
+    "Entity": "Venezuela",
+    "Code": "VEN",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 2192921
+  },
+  {
+    "Entity": "Venezuela",
+    "Code": "VEN",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 2108750
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 3446296
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 2302819
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 3492480
+  },
+  {
+    "Entity": "Western Asia",
+    "Code": "",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 61578
+  },
+  {
+    "Entity": "Western Asia",
+    "Code": "",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 145819
+  },
+  {
+    "Entity": "Western Europe",
+    "Code": "",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 2894106
+  },
+  {
+    "Entity": "Western Europe",
+    "Code": "",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 306430
+  },
+  {
+    "Entity": "Western Europe",
+    "Code": "",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 97086
+  },
+  {
+    "Entity": "Western Europe",
+    "Code": "",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 240520
+  },
+  {
+    "Entity": "Western Europe",
+    "Code": "",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 615625
+  },
+  {
+    "Entity": "Western Europe",
+    "Code": "",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 143
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2015,
+    "EN_MAR_BEALITSQ": 19618
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2016,
+    "EN_MAR_BEALITSQ": 405646
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2017,
+    "EN_MAR_BEALITSQ": 468426
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2018,
+    "EN_MAR_BEALITSQ": 1347138
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2019,
+    "EN_MAR_BEALITSQ": 10313
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2020,
+    "EN_MAR_BEALITSQ": 1248
+  }
+]

@@ -1,0 +1,1 @@
+mongoimport --db=sdg-14 -c beach_litter --type json --file=docker-entrypoint-initdb.d/beach-litter.json --jsonArray
